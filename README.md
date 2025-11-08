@@ -112,11 +112,6 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 Widushan
-
-## 🔗 GitHub Repository
-
-**Repository URL**: [https://github.com/widushan/AI-Resume-Matcher-App.git](<your-github-repo-url>)
-
 ---
 
 ⭐ If you find this project helpful, please consider giving it a star on GitHub!
